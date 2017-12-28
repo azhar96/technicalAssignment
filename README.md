@@ -11,6 +11,7 @@ first_name  varchar(128),
 last_name  varchar(128),
 enabled  bit default 0 not null
 CONSTRAINT UK_USERS PRIMARY KEY (user_id)
+)
 
 
 CREATE TABLE user-singin_logs(
