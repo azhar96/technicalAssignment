@@ -52,4 +52,6 @@ Question 1
 
  72 7 7 foo34 7foo
  
-Question 2 is in the Sum2 jar file.
+Question 2 
+
+The answer is within the find2Sum jar file.
